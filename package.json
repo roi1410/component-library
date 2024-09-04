@@ -1,6 +1,6 @@
 {
     "name": "attempt-component-library",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "A component library for getting people started with easy to re-use components for everyday projects.",
     "main": "dist/cjs/index.js",
     "module": "dist/esm/index.js",
